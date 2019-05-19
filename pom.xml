@@ -10,6 +10,7 @@
         <module>duboo-member-api</module>
         <module>duboo-member-admin</module>
         <module>duboo-member-api</module>
+        <module>duboo-order-admin</module>
     </modules>
     <packaging>pom</packaging>
 
